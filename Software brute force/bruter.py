@@ -54,9 +54,9 @@ def try_web_login(target_url, username, password):
             print(f"[!] Connection Error on WEB with password: {password}")
 
 def main():
-    # Configuração do Gerenciador de Argumentos (Estilo Medusa/Hydra)
+    # Configuração do Gerenciador de Argumentos 
     parser = argparse.ArgumentParser(
-        description="Python Brute Force Tool - Portfolio Project (Medusa Style)",
+        description="Python Brute Force Tool - Project",
         epilog="Example: python bruter.py -m SSH -t 127.0.0.1 -p 2222 -u user -w wordlist.txt"
     )
     
