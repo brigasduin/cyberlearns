@@ -1,4 +1,4 @@
-# Hi, I'm Igor 👋
+# Hi, I'm Igor 
 
 > 16 y/o from Brazil | Cybersecurity Student | Hack The Box Player
 
@@ -10,7 +10,7 @@ I'm a Brazilian student passionate about cybersecurity and ethical hacking. I st
 
 -  Currently working through **HTB Machines**
 -  Studying **Networking, Linux, Web Hacking and SQL Injection**
--  Table tennis player when I'm not hacking
+-  Basketball player when I'm not hacking
 
 ---
 
@@ -44,6 +44,4 @@ I'm a Brazilian student passionate about cybersecurity and ethical hacking. I st
 
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-brigasduin-9FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2480347?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 
----
 
-> *""Falling down is not a failure. Failure comes when you stay where you have fallen."* — Socrates
